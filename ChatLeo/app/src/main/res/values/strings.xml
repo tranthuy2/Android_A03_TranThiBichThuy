@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ChatLeo</string>
+    <string name="welcome_back">ChatLeo hello!</string>
+    <string name="login_to_continue">Login to use</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Login</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">Add photo</string>
+    <string name="name">Full name</string>
+    <string name="sign_up">Register</string>
+    <string name="select_user">Select user</string>
+    <string name="people_you_may_know">People you may know</string>
+    <string name="type_a_message">Enter message</string>
+    <string name="online">Online</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="remember_me">Remember login</string>
+    <string name="search">Search</string>
+    <string name="confirm">Confirm</string>
+    <string name="get_again_password">Get again password</string>
+    <string name="goback">Back</string>
+
+    <string name="rating_dialog_experience">How was your experience with us?</string>
+    <string name="rating_dialog_maybe_later">Later</string>
+    <string name="rating_dialog_never">Never</string>
+    <string name="rating_dialog_feedback_title">Feedback</string>
+    <string name="rating_dialog_submit">Submit</string>
+    <string name="rating_dialog_cancel">Close</string>
+    <string name="rating_dialog_suggestions">Suggestions</string>
+    <string name="resetpassword">Forget password</string>
+    <string name="your_identity_has_been_verified_n_set_your_new_password">Successful identity verification!\nSet your new password</string>
+    <string name="request_verification_of_your_identity">Please verify your identity!</string>
+    <string name="ccontinue">Next</string>
+    <string name="input_otp">Input OTP</string>
+    <string name="send_again">Send again</string>
+</resources>

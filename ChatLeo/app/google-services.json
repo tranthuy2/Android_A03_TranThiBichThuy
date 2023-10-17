@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668062576621",
+    "project_id": "messenger-33934",
+    "storage_bucket": "messenger-33934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668062576621:android:ef1ef4b4cf6e6ae3e741e4",
+        "android_client_info": {
+          "package_name": "com.cobedangiu.chatleo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1buC9_83tHSyVOKvTtqbF7omoUs0THCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
